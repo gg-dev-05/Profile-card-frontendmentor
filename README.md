@@ -1,5 +1,7 @@
 # Frontend Mentor - Profile card component
 
+Final Solution [HERE](https://profile-card-eosin.vercel.app/)
+
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
